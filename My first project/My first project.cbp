@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="My first project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/My first project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../../libcs50-11.0.1" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/My first project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../libcs50-11.0.1/.github/workflows/main.yml" />
+		<Unit filename="../../libcs50-11.0.1/.gitignore" />
+		<Unit filename="../../libcs50-11.0.1/LICENSE" />
+		<Unit filename="../../libcs50-11.0.1/Makefile" />
+		<Unit filename="../../libcs50-11.0.1/README.md" />
+		<Unit filename="../../libcs50-11.0.1/docs/get_char.3.gz" />
+		<Unit filename="../../libcs50-11.0.1/docs/get_double.3.gz" />
+		<Unit filename="../../libcs50-11.0.1/docs/get_float.3.gz" />
+		<Unit filename="../../libcs50-11.0.1/docs/get_int.3.gz" />
+		<Unit filename="../../libcs50-11.0.1/docs/get_long.3.gz" />
+		<Unit filename="../../libcs50-11.0.1/docs/get_long_long.3.gz" />
+		<Unit filename="../../libcs50-11.0.1/docs/get_string.3.gz" />
+		<Unit filename="../../libcs50-11.0.1/post" />
+		<Unit filename="../../libcs50-11.0.1/postinst" />
+		<Unit filename="../../libcs50-11.0.1/postrm" />
+		<Unit filename="../../libcs50-11.0.1/postun" />
+		<Unit filename="../../libcs50-11.0.1/src/cs50.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../libcs50-11.0.1/src/cs50.h" />
+		<Unit filename="../../libcs50-11.0.1/tests/get_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../libcs50-11.0.1/tests/hackerrank.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

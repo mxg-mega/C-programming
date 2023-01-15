@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1666515990 source:c:\users\folio\documents\c programming\my first project\array.c
+	"main.h"
+
+1664388339 c:\users\folio\documents\c programming\my first project\main.h
+
+1666516475 source:c:\users\folio\documents\c programming\my first project\pointer_in_functions.c
+	<stdio.h>
+
+1672689456 source:c:\users\folio\documents\c programming\my first project\pointer_test.c
+
+1664395456 source:c:\users\folio\documents\c programming\my first project\pointers.c
+	<stdio.h>
+
+1673534126 source:c:\users\folio\documents\c programming\my first project\puts2.c
+	<stdio.h>
+	"main.h"
+
+1673534163 source:c:\users\folio\documents\c programming\my first project\puts_half.c
+	<stdio.h>
+	"main.h"
+
+1673532923 source:c:\users\folio\documents\c programming\my first project\tasks_alx.c
+	<stdio.h>
+
+1673620362 source:c:\users\folio\documents\c programming\learning_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1673618627 c:\users\folio\documents\c programming\learning_c\main.h
+
+1673534643 source:c:\users\folio\documents\c programming\learning_c\print_int_putchar.c
+	<stdio.h>
+	"main.h"
+
+1673552432 source:c:\users\folio\documents\c programming\learning_c\print_array.c
+	"main.h"
+	<stdio.h>
+
+1673534218 source:c:\users\folio\documents\c programming\learning_c\print_rev.c
+	"main.h"
+	<stdio.h>
+
+1673534213 source:c:\users\folio\documents\c programming\learning_c\puts.c
+	"main.h"
+	<stdio.h>
+
+1673534280 source:c:\users\folio\documents\c programming\learning_c\reset_to_98.c
+	"main.h"
+
+1673534270 source:c:\users\folio\documents\c programming\learning_c\strlen.c
+	"main.h"
+
+1673533503 source:c:\users\folio\documents\c programming\learning_c\swap_int.c
+	"main.h"
+
+1673553098 source:c:\users\folio\documents\c programming\learning_c\strcpy.c
+	"main.h"
+	<stdio.h>
+
+1673552785 source:c:\users\folio\documents\c programming\learning_c\print_int.c
+	"main.h"
+	<stdio.h>
+
+1673620308 source:c:\users\folio\documents\c programming\learning_c\strcat.c
+	<stdio.h>
+	"main.h"
+
