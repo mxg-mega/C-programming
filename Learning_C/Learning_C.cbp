@@ -37,6 +37,9 @@
 		<Unit filename="../My first project/puts_half.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Reverse_Array.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -62,10 +65,16 @@
 		<Unit filename="strcat.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="strcmp.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="strcpy.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="strlen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strncat.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="swap_int.c">
