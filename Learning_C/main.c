@@ -6,11 +6,13 @@ int main()
 {
     char s1[98];
     char s2[98] = "Hello ";
-    char s3[] = "World!";
+    /*char s3[] = "World!";
     char *str, *ptr, *ctr, *htr;
     int array[6];
-    int *ktr;
-
+    int *ktr;*/
+    _puts_reverse(s2);
+    printf("%d \n", factorial(4));
+/*
     array[0] = 98;
     array[1] = 402;
     array[2] = -198;
@@ -40,6 +42,6 @@ int main()
     printf("%s\n", s2);
 
     ktr = _strcmp(ptr, str);
-    printf("%d\n", ktr);
+    printf("%d\n", ktr);*/
     return 0;
 }

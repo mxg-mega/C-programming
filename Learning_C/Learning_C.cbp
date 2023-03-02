@@ -37,6 +37,15 @@
 		<Unit filename="../My first project/puts_half.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Factorial.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Recursion2.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Reverse_Array.c">
 			<Option compilerVar="CC" />
 		</Unit>

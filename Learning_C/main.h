@@ -16,5 +16,8 @@ char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
 int _strcmp(char *s1, char *s2);
 void reverse_array(int *a, int n);
+void _puts_(char *s);
+unsigned int factorial(long n);
+void _puts_reverse(char *s);
 
 #endif // MAIN_H_INCLUDED

@@ -23,12 +23,12 @@
 1673532923 source:c:\users\folio\documents\c programming\my first project\tasks_alx.c
 	<stdio.h>
 
-1674381833 source:c:\users\folio\documents\c programming\learning_c\main.c
+1677176792 source:c:\users\folio\documents\c programming\learning_c\main.c
 	<stdio.h>
 	<stdlib.h>
 	"main.h"
 
-1674378921 c:\users\folio\documents\c programming\learning_c\main.h
+1677176003 c:\users\folio\documents\c programming\learning_c\main.h
 
 1673534643 source:c:\users\folio\documents\c programming\learning_c\print_int_putchar.c
 	<stdio.h>
@@ -75,7 +75,19 @@
 	"main.h"
 	<stdio.h>
 
-1674495050 source:c:\users\folio\documents\c programming\learning_c\reverse_array.c
+1674495156 source:c:\users\folio\documents\c programming\learning_c\reverse_array.c
+	<stdio.h>
+	"main.h"
+
+1677176559 source:c:\users\folio\documents\c programming\learning_c\recursion.c
+	<stdio.h>
+	"main.h"
+
+1677172827 source:c:\users\folio\documents\c programming\learning_c\factorial.c
+	<stdio.h>
+	"main.h"
+
+1677176532 source:c:\users\folio\documents\c programming\learning_c\recursion2.c
 	<stdio.h>
 	"main.h"
 
